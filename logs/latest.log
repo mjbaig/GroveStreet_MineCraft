@@ -1,0 +1,179 @@
+[15:11:29] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[15:11:29] [Server thread/INFO]: Loading properties
+[15:11:29] [Server thread/INFO]: Default game type: SURVIVAL
+[15:11:29] [Server thread/INFO]: Generating keypair
+[15:11:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:11:29] [Server thread/INFO]: Using default channel type
+[15:11:29] [Server thread/INFO]: Preparing level "world"
+[15:11:29] [Server thread/INFO]: Preparing start region for level 0
+[15:11:30] [Server thread/INFO]: Preparing spawn area: 84%
+[15:11:31] [Server thread/INFO]: Done (1.265s)! For help, type "help" or "?"
+[15:11:56] [User Authenticator #1/INFO]: UUID of player tk3413 is 54e7ac72-cbe5-43e2-8743-33dcbd3dc515
+[15:11:56] [Server thread/INFO]: tk3413[/192.168.1.104:64571] logged in with entity id 152 at (386.04202308815024, 114.0, 1284.6576390404296)
+[15:11:56] [Server thread/INFO]: tk3413 joined the game
+[15:12:19] [User Authenticator #2/INFO]: UUID of player GreenT0 is e33fc70d-c555-47ac-91b2-e98ae4726edc
+[15:12:19] [Server thread/INFO]: GreenT0[/192.168.1.72:63361] logged in with entity id 971 at (378.0416114847889, 114.0, 1451.9321492288543)
+[15:12:19] [Server thread/INFO]: GreenT0 joined the game
+[15:15:15] [Server thread/INFO]: GreenT0 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:15:15] [Server thread/INFO]: GreenT0 left the game
+[15:15:26] [User Authenticator #3/INFO]: UUID of player Rejected_Tuna is 9c5531ca-99c5-4afe-b475-442654b971d1
+[15:15:26] [User Authenticator #4/INFO]: UUID of player GreenT0 is e33fc70d-c555-47ac-91b2-e98ae4726edc
+[15:15:26] [Server thread/INFO]: GreenT0[/192.168.1.72:63364] logged in with entity id 8197 at (372.30003267114347, 113.0, 1445.9963568140981)
+[15:15:26] [Server thread/INFO]: GreenT0 joined the game
+[15:15:27] [Server thread/INFO]: Rejected_Tuna[/192.168.1.70:50634] logged in with entity id 8270 at (363.25761773065, 79.5, 1371.2248726591934)
+[15:15:27] [Server thread/INFO]: Rejected_Tuna joined the game
+[15:15:42] [Server thread/INFO]: <Rejected_Tuna> then i dont need a jacket
+[15:16:38] [Server thread/INFO]: Given Speed (ID 1) * 2 to GreenT0 for 180 seconds
+[15:17:25] [Server thread/WARN]: tk3413 moved wrongly!
+[15:17:29] [Server thread/WARN]: tk3413 moved wrongly!
+[15:17:41] [Server thread/WARN]: tk3413 moved wrongly!
+[15:17:41] [Server thread/WARN]: tk3413 moved wrongly!
+[15:17:41] [Server thread/WARN]: tk3413 moved wrongly!
+[15:17:41] [Server thread/WARN]: tk3413 moved wrongly!
+[15:17:47] [Server thread/WARN]: tk3413 moved wrongly!
+[15:18:06] [Server thread/WARN]: tk3413 moved wrongly!
+[15:18:06] [Server thread/WARN]: tk3413 moved wrongly!
+[15:18:06] [Server thread/WARN]: tk3413 moved wrongly!
+[15:18:26] [Server thread/INFO]: Took Speed from GreenT0
+[15:18:49] [User Authenticator #5/INFO]: UUID of player upendingpotato is 17d2c9b9-be40-4c16-9200-ceca4b073e67
+[15:18:49] [Server thread/INFO]: upendingpotato[/192.168.1.65:50052] logged in with entity id 16156 at (364.8451821586403, 79.0, 1369.4178966031056)
+[15:18:49] [Server thread/INFO]: upendingpotato joined the game
+[15:19:43] [Server thread/INFO]: Given Strength (ID 5) * 5 to upendingpotato for 10000 seconds
+[15:20:53] [Server thread/INFO]: Given Strength (ID 5) * 10 to upendingpotato for 10000 seconds
+[15:26:56] [Server thread/INFO]: tk3413 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:26:56] [Server thread/INFO]: tk3413 left the game
+[15:27:04] [Server thread/INFO]: <GreenT0> yeah boi
+[15:27:27] [Server thread/INFO]: <GreenT0> FALLLLLLCCCCCONNNNNN PPPPPPPPPPPAAAAAAAAAAWWWWWWWWWWWWWWWNNNNNNNNNNNCCCCCCCCCCCCCCHHHHHHHHHHHHH
+[15:27:27] [Server thread/INFO]: <Rejected_Tuna> fgt
+[15:27:52] [Server thread/INFO]: upendingpotato lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:27:52] [Server thread/INFO]: upendingpotato left the game
+[15:28:01] [User Authenticator #6/INFO]: UUID of player tk3413 is 54e7ac72-cbe5-43e2-8743-33dcbd3dc515
+[15:28:01] [Server thread/INFO]: tk3413[/192.168.1.104:64605] logged in with entity id 35170 at (402.4714277119985, 115.0, 1300.9817790928291)
+[15:28:01] [Server thread/INFO]: tk3413 joined the game
+[15:28:16] [Server thread/INFO]: The entity UUID provided is in an invalid format
+[15:28:27] [Server thread/INFO]: The entity UUID provided is in an invalid format
+[15:28:41] [User Authenticator #7/INFO]: UUID of player upendingpotato is 17d2c9b9-be40-4c16-9200-ceca4b073e67
+[15:28:41] [Server thread/INFO]: upendingpotato[/192.168.1.65:50078] logged in with entity id 37015 at (376.9070884809857, 82.0, 1375.7065854414018)
+[15:28:41] [Server thread/INFO]: upendingpotato joined the game
+[15:28:48] [Server thread/INFO]: Given Strength (ID 5) * 100 to upendingpotato for 100000 seconds
+[15:31:05] [Server thread/INFO]: Rejected_Tuna fell from a high place
+[15:32:46] [Server thread/INFO]: GreenT0 was slain by upendingpotato
+[15:32:55] [Server thread/WARN]: GreenT0 moved wrongly!
+[15:33:28] [Server thread/INFO]: Rejected_Tuna fell from a high place
+[15:38:54] [Server thread/INFO]: Rejected_Tuna lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:38:54] [Server thread/INFO]: Rejected_Tuna left the game
+[15:38:57] [Server thread/INFO]: GreenT0 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:38:57] [Server thread/INFO]: GreenT0 left the game
+[15:39:00] [Server thread/INFO]: upendingpotato lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:39:00] [Server thread/INFO]: upendingpotato left the game
+[15:39:04] [User Authenticator #8/INFO]: UUID of player GreenT0 is e33fc70d-c555-47ac-91b2-e98ae4726edc
+[15:39:04] [Server thread/INFO]: GreenT0[/192.168.1.72:63483] logged in with entity id 60701 at (287.835388049219, 67.0, 1326.1218901028092)
+[15:39:04] [Server thread/INFO]: GreenT0 joined the game
+[15:39:08] [User Authenticator #9/INFO]: UUID of player Rejected_Tuna is 9c5531ca-99c5-4afe-b475-442654b971d1
+[15:39:08] [Server thread/INFO]: Rejected_Tuna[/192.168.1.70:50648] logged in with entity id 60985 at (283.7583849322245, 68.0, 1330.357070640135)
+[15:39:08] [Server thread/INFO]: Rejected_Tuna joined the game
+[15:39:26] [User Authenticator #10/INFO]: UUID of player upendingpotato is 17d2c9b9-be40-4c16-9200-ceca4b073e67
+[15:39:26] [Server thread/INFO]: upendingpotato[/192.168.1.65:50090] logged in with entity id 61632 at (288.18807441327056, 68.0, 1329.0010475416482)
+[15:39:26] [Server thread/INFO]: upendingpotato joined the game
+[15:40:22] [Server thread/WARN]: tk3413 moved wrongly!
+[15:40:23] [Server thread/WARN]: tk3413 moved wrongly!
+[15:40:23] [Server thread/WARN]: tk3413 moved wrongly!
+[15:48:36] [Server thread/INFO]: <Rejected_Tuna> ur all fgts
+[15:49:43] [Server thread/INFO]: upendingpotato lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:49:43] [Server thread/INFO]: upendingpotato left the game
+[15:49:46] [Server thread/INFO]: GreenT0 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:49:46] [Server thread/INFO]: GreenT0 left the game
+[15:50:33] [Server thread/INFO]: Rejected_Tuna lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:50:33] [Server thread/INFO]: Rejected_Tuna left the game
+[15:50:47] [User Authenticator #11/INFO]: UUID of player Rejected_Tuna is 9c5531ca-99c5-4afe-b475-442654b971d1
+[15:50:47] [Server thread/INFO]: Rejected_Tuna[/192.168.1.70:50694] logged in with entity id 80519 at (299.755111975972, 53.0, 1375.0763278314796)
+[15:50:47] [Server thread/INFO]: Rejected_Tuna joined the game
+[15:51:04] [User Authenticator #12/INFO]: UUID of player GreenT0 is e33fc70d-c555-47ac-91b2-e98ae4726edc
+[15:51:04] [Server thread/INFO]: GreenT0[/192.168.1.72:63499] logged in with entity id 81088 at (302.0223846891014, 53.0, 1375.300000011921)
+[15:51:04] [Server thread/INFO]: GreenT0 joined the game
+[15:51:15] [Server thread/WARN]: GreenT0 moved wrongly!
+[15:51:24] [User Authenticator #13/INFO]: UUID of player upendingpotato is 17d2c9b9-be40-4c16-9200-ceca4b073e67
+[15:51:24] [Server thread/INFO]: upendingpotato[/192.168.1.65:50104] logged in with entity id 81609 at (301.88902628543985, 52.0, 1376.699999988079)
+[15:51:24] [Server thread/INFO]: upendingpotato joined the game
+[15:52:18] [Server thread/WARN]: tk3413 moved wrongly!
+[15:52:18] [Server thread/WARN]: tk3413 moved wrongly!
+[15:52:18] [Server thread/WARN]: tk3413 moved wrongly!
+[15:52:45] [Server thread/INFO]: Rejected_Tuna lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:52:45] [Server thread/INFO]: Rejected_Tuna left the game
+[15:52:52] [User Authenticator #14/INFO]: UUID of player Rejected_Tuna is 9c5531ca-99c5-4afe-b475-442654b971d1
+[15:52:52] [Server thread/INFO]: Rejected_Tuna[/192.168.1.70:50696] logged in with entity id 83767 at (291.90872038098604, 56.0, 1370.289426175732)
+[15:52:52] [Server thread/INFO]: Rejected_Tuna joined the game
+[15:58:54] [Server thread/INFO]: Rejected_Tuna was slain by upendingpotato
+[15:59:28] [Server thread/INFO]: Teleported Rejected_Tuna to upendingpotato
+[15:59:56] [Server thread/INFO]: Rejected_Tuna was slain by upendingpotato
+[16:00:23] [Server thread/INFO]: Teleported Rejected_Tuna to upendingpotato
+[16:09:37] [Server thread/INFO]: Rejected_Tuna was slain by upendingpotato
+[16:10:10] [Server thread/INFO]: Teleported Rejected_Tuna to upendingpotato
+[16:13:09] [Server thread/INFO]: Teleported upendingpotato to tk3413
+[16:13:27] [Server thread/INFO]: Rejected_Tuna has just earned the achievement [DIAMONDS!]
+[16:14:12] [Server thread/INFO]: GreenT0 has just earned the achievement [Hot Topic]
+[16:15:30] [Server thread/INFO]: Teleported Rejected_Tuna to tk3413
+[16:16:40] [Server thread/INFO]: upendingpotato was slain by Rejected_Tuna
+[16:17:03] [Server thread/INFO]: Teleported upendingpotato to Rejected_Tuna
+[16:17:37] [Server thread/INFO]: Teleported upendingpotato to GreenT0
+[16:19:10] [Server thread/INFO]: Given Strength (ID 5) * 100 to upendingpotato for 10000 seconds
+[16:20:31] [Server thread/INFO]: upendingpotato tried to swim in lava
+[16:20:53] [Server thread/INFO]: GreenT0 has just earned the achievement [Acquire Hardware]
+[16:21:15] [Server thread/INFO]: Teleported upendingpotato to GreenT0
+[16:22:07] [Server thread/INFO]: Teleported Rejected_Tuna to upendingpotato
+[16:23:56] [Server thread/INFO]: upendingpotato tried to swim in lava
+[16:24:15] [Server thread/INFO]: Teleported upendingpotato to Rejected_Tuna
+[16:24:49] [Server thread/INFO]: Given Strength (ID 5) * 100 to upendingpotato for 100000 seconds
+[16:29:10] [Server thread/INFO]: Teleported Rejected_Tuna to tk3413
+[16:29:19] [Server thread/INFO]: Teleported GreenT0 to tk3413
+[16:29:29] [Server thread/INFO]: Teleported upendingpotato to tk3413
+[16:34:00] [Server thread/INFO]: Rejected_Tuna was shot by Skeleton
+[16:34:19] [Server thread/INFO]: Teleported Rejected_Tuna to tk3413
+[16:36:28] [Server thread/INFO]: upendingpotato lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:36:28] [Server thread/INFO]: upendingpotato left the game
+[16:37:03] [Server thread/INFO]: Teleported Rejected_Tuna to tk3413
+[16:37:16] [Server thread/INFO]: Rejected_Tuna lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:37:16] [Server thread/INFO]: Rejected_Tuna left the game
+[16:37:20] [Server thread/INFO]: GreenT0 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:37:20] [Server thread/INFO]: GreenT0 left the game
+[16:38:03] [Server thread/INFO]: tk3413 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:38:03] [Server thread/INFO]: tk3413 left the game
+[17:01:22] [User Authenticator #15/INFO]: UUID of player tk3413 is 54e7ac72-cbe5-43e2-8743-33dcbd3dc515
+[17:01:22] [Server thread/INFO]: tk3413[/192.168.1.104:64961] logged in with entity id 165629 at (402.3213409294079, 115.5625, 1300.490803103637)
+[17:01:22] [Server thread/INFO]: tk3413 joined the game
+[17:14:12] [User Authenticator #16/INFO]: UUID of player GreenT0 is e33fc70d-c555-47ac-91b2-e98ae4726edc
+[17:14:12] [Server thread/INFO]: GreenT0[/192.168.1.72:63953] logged in with entity id 187132 at (369.2917476749594, 114.0, 1444.6449189117573)
+[17:14:12] [Server thread/INFO]: GreenT0 joined the game
+[17:15:06] [User Authenticator #17/INFO]: UUID of player Rejected_Tuna is 9c5531ca-99c5-4afe-b475-442654b971d1
+[17:15:06] [Server thread/INFO]: Rejected_Tuna[/192.168.1.70:50927] logged in with entity id 191511 at (403.5963529451489, 116.0, 1302.699999988079)
+[17:15:06] [Server thread/INFO]: Rejected_Tuna joined the game
+[17:16:29] [Server thread/INFO]: <Rejected_Tuna> hey all you people
+[17:16:34] [Server thread/INFO]: <Rejected_Tuna> hey all you people
+[17:16:39] [Server thread/INFO]: <Rejected_Tuna> hey all you people
+[17:16:44] [Server thread/INFO]: <GreenT0> I don't need a jacket!
+[17:16:45] [Server thread/INFO]: <Rejected_Tuna> won't you listen to meee?
+[17:16:53] [Server thread/INFO]: <Rejected_Tuna> jejejejejejejeje
+[17:22:51] [Server thread/WARN]: tk3413 moved wrongly!
+[17:22:51] [Server thread/WARN]: tk3413 moved wrongly!
+[17:24:23] [Server thread/INFO]: <GreenT0> im slep
+[17:24:26] [Server thread/INFO]: Rejected_Tuna lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:24:26] [Server thread/INFO]: Rejected_Tuna left the game
+[17:24:26] [Server thread/INFO]: <GreenT0> leave
+[17:24:31] [Server thread/INFO]: <GreenT0> all of you
+[17:24:32] [Server thread/INFO]: <GreenT0> leave
+[17:24:35] [Server thread/INFO]: <GreenT0> gtfo
+[17:24:36] [Server thread/INFO]: <GreenT0> now
+[17:24:46] [User Authenticator #18/INFO]: UUID of player Rejected_Tuna is 9c5531ca-99c5-4afe-b475-442654b971d1
+[17:24:46] [Server thread/INFO]: Rejected_Tuna[/192.168.1.70:50964] logged in with entity id 213619 at (393.30000001192093, 77.0, 1338.789749422107)
+[17:24:46] [Server thread/INFO]: Rejected_Tuna joined the game
+[17:25:33] [Server thread/INFO]: Rejected_Tuna lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:25:33] [Server thread/INFO]: Rejected_Tuna left the game
+[17:26:23] [Server thread/WARN]: tk3413 moved wrongly!
+[17:26:51] [Server thread/WARN]: tk3413 moved wrongly!
+[17:28:10] [Server thread/INFO]: GreenT0 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:28:10] [Server thread/INFO]: GreenT0 left the game
+[17:45:15] [Server thread/INFO]: tk3413 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:45:15] [Server thread/INFO]: tk3413 left the game
+[17:58:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 20254ms behind, skipping 405 tick(s)
+[18:10:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 729681ms behind, skipping 14593 tick(s)
+[18:13:27] [Server thread/WARN]: Failed to check session lock, aborting
